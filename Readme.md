@@ -42,9 +42,9 @@
 &nbsp;
 ***
 ## **🔥Netlify Live Link🔥**
-- [Developer Landing Page]()
+- [Developer Landing Page](https://live-proj-9-fullstackjsbootcamp.netlify.app/)
 
 &nbsp;
 ***
 ## **📷 Post Designing Screenshot 📷**
-![]()
+![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Actual-Screenshot.JPG)
