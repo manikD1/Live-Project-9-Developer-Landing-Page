@@ -630,7 +630,7 @@ nav svg:nth-child(7){
   }
 
   .blog-heading::after{
-    font-size: 1em;
+    font-size: 0.6em;
   }
 
   .blog-image img{
