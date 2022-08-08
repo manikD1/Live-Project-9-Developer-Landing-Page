@@ -37,7 +37,7 @@
 ## **🖥️ Ideal Display Resolution 🖥️**
 
 - 1920 * 1080
-- Currently *Non-responsive.*
+- *Fully Responsive.*
 
 &nbsp;
 ***
@@ -46,5 +46,28 @@
 
 &nbsp;
 ***
-## **📷 Post Designing Screenshot 📷**
-![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Actual-Screenshot.JPG)
+## **📷 Post Designing Screenshots 📷**
+
+![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Screenshots/Actual-Screenshot.JPG)
+
+![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Screenshots/Actual-Screenshot-1.JPG)
+
+![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Screenshots/Actual-Screenshot-2.JPG)
+
+![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Screenshots/Actual-Screenshot-3.JPG)
+
+![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Screenshots/Actual-Screenshot-4.JPG)
+
+![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Screenshots/Actual-Screenshot-5.JPG)
+
+![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Screenshots/Actual-Screenshot-6.JPG)
+
+![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Screenshots/Actual-Screenshot-7.JPG)
+
+![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Screenshots/Actual-Screenshot-8.JPG)
+
+![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Screenshots/Actual-Screenshot-9.JPG)
+
+![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Screenshots/Actual-Screenshot-10.JPG)
+
+![](https://github.com/manikD1/Live-Project-9-Developer-Landing-Page/blob/main/Screenshots/Actual-Screenshot-11.JPG)
